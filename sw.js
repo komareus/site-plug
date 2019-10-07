@@ -6,10 +6,6 @@ workbox.precaching.precacheAndRoute([
     "revision": "73288c28d5b496fba3a988b844c260a5"
   },
   {
-    "url": "/_nuxt/40656223a64cad2fb8d8.js",
-    "revision": "724695882db437bc3e9667fa83671b46"
-  },
-  {
     "url": "/_nuxt/59e7cbe8e79267171fac.js",
     "revision": "71627f489008e4cbe08136b4481debd3"
   },
@@ -22,8 +18,12 @@ workbox.precaching.precacheAndRoute([
     "revision": "3b2232cfa44d1aafe95bdec006601be4"
   },
   {
-    "url": "/_nuxt/c5af6ee369e4a4137876.js",
-    "revision": "251e2cc2e4dcd528065defd25d6b3bce"
+    "url": "/_nuxt/8b46a46c9259c1fb7189.js",
+    "revision": "7ec30af20ab4332096b2b2163e4e5ca9"
+  },
+  {
+    "url": "/_nuxt/ab93229e93ed9c86a009.js",
+    "revision": "09e6890d6b20675012d95929ec5baa64"
   }
 ], {
   "cacheId": "heroes",
